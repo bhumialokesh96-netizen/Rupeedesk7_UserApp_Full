@@ -1,4 +1,4 @@
-package com.rupeedesk7.userapp
+package com.rupeedesk7.smsapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
