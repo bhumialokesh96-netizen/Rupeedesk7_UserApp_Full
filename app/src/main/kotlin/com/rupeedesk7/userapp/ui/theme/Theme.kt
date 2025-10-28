@@ -1,4 +1,4 @@
-package com.rupeedesk7.userapp.ui.theme
+package com.rupeedesk7.smsapp.ui.theme
 
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.lightColors
