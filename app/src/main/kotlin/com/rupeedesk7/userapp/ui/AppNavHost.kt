@@ -1,4 +1,4 @@
-package com.rupeedesk7.userapp.ui
+package com.rupeedesk7.smsapp.ui
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.compose.NavHost
