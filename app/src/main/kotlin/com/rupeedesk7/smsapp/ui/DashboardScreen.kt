@@ -19,14 +19,11 @@ import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.firestore.ktx.toObject
-<<<<<<< Updated upstream:app/src/main/kotlin/com/rupeedesk7/userapp/ui/DashboardScreen.kt
 import com.rupeedesk7.userapp.data.UserModel
 import kotlinx.coroutines.tasks.await
-=======
 import kotlinx.coroutines.tasks.await
 import com.rupeedesk7.smsapp.data.UserModel
 import androidx.compose.foundation.clickable
->>>>>>> Stashed changes:app/src/main/kotlin/com/rupeedesk7/smsapp/ui/DashboardScreen.kt
 
 @Composable
 fun DashboardScreen(navController: NavController) {
