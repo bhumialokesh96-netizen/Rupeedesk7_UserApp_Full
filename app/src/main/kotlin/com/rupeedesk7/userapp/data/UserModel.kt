@@ -1,4 +1,4 @@
-package com.rupeedesk7.userapp.data
+package com.rupeedesk7.smsapp.data
 
 data class UserModel(
     val phone: String = "",
