@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.rupeedesk7.userapp'
+    namespace 'com.rupeedesk7.smsapp'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.rupeedesk7.userapp"
+        applicationId "com.rupeedesk7.smsapp"
         minSdk 24
         targetSdk 34
         versionCode 2
