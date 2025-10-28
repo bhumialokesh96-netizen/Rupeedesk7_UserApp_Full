@@ -1,4 +1,4 @@
-package com.rupeedesk7.userapp.worker
+package com.rupeedesk7.smsapp.worker
 
 import android.content.Context
 import android.telephony.SmsManager
