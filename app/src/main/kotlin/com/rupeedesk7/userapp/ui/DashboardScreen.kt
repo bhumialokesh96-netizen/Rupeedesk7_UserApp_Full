@@ -56,10 +56,10 @@ fun DashboardScreen(navController: NavController) {
             phone = u?.phone ?: doc.id
             name = u?.name ?: ""
             balance = u?.balance ?: 0.0
-            dailySent = u?.dailySent ?: 0
-            dailyLimit = u?.dailyLimit ?: 50
-            spins = u?.spins ?: 0
-            selectedSim = u?.simId ?: -1
+            dailySent = (u?.dailySent ?: 0L).toInt()
+            dailyLimit = (u?.dailyLimit ?: 50L).toInt()
+            spins = (u?.spins ?: 0L).toInt()
+            selectedSim = (u?.simId ?: -1L).toInt()
         }
 
         // Request permission to read SIMs
